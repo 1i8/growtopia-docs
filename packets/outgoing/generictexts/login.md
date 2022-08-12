@@ -29,6 +29,8 @@ login packet you send after receiving SERVER_HELLO (type: 1) net message
 
 `category` - world select menu world filter
 
+`totalPlaytime` - gt didn't add this yet, but can be found in save.dat
+
 `hash2` - HashString of mac_address + "RT" (signed integer)
 
 `meta` - some random string from server_data.php
@@ -37,7 +39,7 @@ login packet you send after receiving SERVER_HELLO (type: 1) net message
 
 `rid` - generated using GetSimpleGUIDAsString
 
-`platformID` - what platform player is using (=: windows, 1: ios, 2: macos, 4: android)
+`platformID` - what platform player is using (0: windows, 1: ios, 2: macos, 4: android)
 
 `deviceVersion` - devices version, currently GetDeviceOSVersion only returns 0
 
