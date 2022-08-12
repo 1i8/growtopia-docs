@@ -1,6 +1,8 @@
 # packets
 
-#### todo: tell stuff about how to get specific packet from ENetPacket's data
+growtopia uses [enet networking library (V1.3.1)](https://github.com/lsalzman/enet) with small modifications
+
+### todo: show how to load these packets from ENetPacket's data
 
 ## incoming packets
 * [game messages](incoming/gamemessages/gamemessages.md)
