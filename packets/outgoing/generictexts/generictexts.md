@@ -1,0 +1,1 @@
+# outgoing generic texts

@@ -1,2 +1,5 @@
 # growtopia-docs
-documentation about growtopia's packets
+documentation about growtopia stuff
+
+
+* [packets](packets/packets.md)
